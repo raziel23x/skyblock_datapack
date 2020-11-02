@@ -1,0 +1,21 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": ["DOD"],
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:polished_blackstone_slab"
+        },
+        "O":
+        {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result":
+    {
+        "item": "darkutils:rune_nausea",
+        "count": 2
+    }
+}

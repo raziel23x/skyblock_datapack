@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rCr",
+    "TAT",
+    "rTr"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "A": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:timer"
+  }
+}

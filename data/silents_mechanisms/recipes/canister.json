@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#A#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/iron"
+        },
+		"A": {
+            "item": "minecraft:bucket"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:canister",
+        "count": 8
+    }
+}

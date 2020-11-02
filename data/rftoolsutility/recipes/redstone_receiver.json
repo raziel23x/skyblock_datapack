@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ror",
+    "CAC",
+    "rRr"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "A": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:redstone_receiver"
+  }
+}

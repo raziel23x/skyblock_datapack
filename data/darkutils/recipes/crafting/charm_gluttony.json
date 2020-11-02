@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "minecraft:golden_apple"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:cake"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:cake"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:cake"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "result": {
+    "item": "darkutils:charm_gluttony"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BFB",
+    "BBB"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "B": {
+      "item": "mysticalagriculture:inferium_block"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:inferium_furnace"
+  }
+}

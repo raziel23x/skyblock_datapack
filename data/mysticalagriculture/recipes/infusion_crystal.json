@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "mysticalagriculture:prosperity_gemstone"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:infusion_crystal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ppp",
+          "iri",
+          "ppp"
+        ],
+        "key": {
+          "p": {
+            "item": "industrialforegoing:plastic"
+          },
+          "i": {
+            "tag": "forge:ingots/iron"
+          },
+          "r": {
+            "item": "minecraft:redstone"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:conveyor",
+          "count": 6
+        }
+}

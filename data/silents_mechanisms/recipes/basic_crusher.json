@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ooo",
+        "oxo",
+        "o/o"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:iron_sword"
+        },
+        "x": {
+            "item": "silents_mechanisms:stone_machine_frame"
+        },
+        "o": {
+            "item": "minecraft:smooth_stone"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:basic_crusher"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rftools",
+  "pattern": [
+    "ioi",
+    "oRo",
+    "ioi"
+  ],
+  "key": {
+    "R": {
+      "item": "rftoolspower:dimensionalcell"
+    },
+    "i": {
+      "item": "powah:capacitor_niotic"
+    },
+    "o": {
+      "tag": "forge:ender_pearls"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:charged_porter"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "powah:uraninite_ore_dense"
+  },
+  "results": [
+    {
+      "item": "powah:uraninite_raw_dense",
+	  "count": 8
+    },
+    {
+      "item": "powah:uraninite_raw_dense",
+	  "count": 2,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

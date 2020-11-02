@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "buildinggadgets:gadget_copy_paste"
+  },
+  "pattern": [
+    "iei",
+    "iei",
+    "ril"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "l": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  }
+}

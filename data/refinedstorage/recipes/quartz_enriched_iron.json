@@ -1,0 +1,26 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "item": "minecraft:iron_ingot"
+                }
+            ],
+            "count": 2
+        },
+        {
+            "values": [
+                {
+                    "tag": "forge:gems/quartz"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "refinedstorage:quartz_enriched_iron",
+        "count": 2
+    }
+}

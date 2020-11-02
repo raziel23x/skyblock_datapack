@@ -1,0 +1,21 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "mysticalagriculture:prosperity_ore"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "count": 2
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

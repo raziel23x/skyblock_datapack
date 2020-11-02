@@ -1,0 +1,10 @@
+{
+  "input": {
+    "item": "minecraft:honeycomb_block"
+  },
+  "result": "minecraft:air",
+  "breakChance": 0.005,
+  "output": "{FluidName:\"cyclic:honey\",Amount:1}",
+  "defaultRecipe": false,
+  "type": "industrialforegoing:fluid_extractor"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "silents_mechanisms:infusing",
+  "process_time": 250,
+  "ingredient": {
+    "item": "buildinggadgets:construction_block"
+  },
+  "fluid": {
+    "tag": "minecraft:water",
+    "amount": 1000
+  },
+  "result": {
+    "item": "buildinggadgets:construction_block_dense"
+  }
+}

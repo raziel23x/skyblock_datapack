@@ -1,0 +1,28 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ppp",
+          "rcr",
+          "omo"
+        ],
+        "key": {
+          "p": {
+            "item": "industrialforegoing:plastic"
+          },
+          "r": {
+            "item": "minecraft:repeater"
+          },
+          "c": {
+            "item": "minecraft:comparator"
+          },
+          "o": {
+            "item": "minecraft:observer"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_detector"
+        }
+}

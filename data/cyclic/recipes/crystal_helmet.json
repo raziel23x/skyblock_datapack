@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "cdc"
+  ],
+  "key": {
+  	"d": {
+  		"item":"cyclic:emerald_helmet"
+  	},
+  	"c": {
+  		"item":"cyclic:gem_obsidian"
+  	}
+  },
+  "result": {
+    "item": "cyclic:crystal_helmet",
+    "count": 1
+  }
+}

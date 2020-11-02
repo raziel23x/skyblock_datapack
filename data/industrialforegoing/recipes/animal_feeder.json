@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PAP",
+      "CMC",
+      "DGD"
+    ],
+    "key": {
+      "P": {
+        "item": "industrialforegoing:plastic"
+      },
+      "A": {
+        "item": "minecraft:golden_apple"
+      },
+      "C": {
+        "item": "minecraft:golden_carrot"
+      },
+      "G": {
+        "tag": "forge:gears/iron"
+      },
+      "D": {
+        "tag": "forge:dyes/purple"
+      },
+      "M": {
+        "tag": "industrialforegoing:machine_frame/pity"
+      }
+    },
+    "result": {
+      "item": "industrialforegoing:animal_feeder"
+    }
+}

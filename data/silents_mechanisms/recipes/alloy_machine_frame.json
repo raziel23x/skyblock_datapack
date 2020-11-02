@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "#s#",
+    "/#/"
+  ],
+  "key": {
+    "/": {
+      "tag": "forge:ingots/redstone_alloy"
+    },
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "s": {
+      "item": "silents_mechanisms:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "silents_mechanisms:alloy_machine_frame"
+  }
+}

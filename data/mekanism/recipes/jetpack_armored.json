@@ -1,0 +1,27 @@
+{
+    "type": "mekanism:mek_data",
+    "pattern": ["# #", "ISI", " P "],
+    "key":
+    {
+        "P":
+        {
+            "item": "mekanism:jetpack"
+        },
+        "I":
+        {
+            "item": "silents_mechanisms:bronze_ingot"
+        },
+        "S":
+        {
+            "item": "mekanism:steel_casing"
+        },
+        "#":
+        {
+            "tag": "forge:dusts/diamond"
+        }
+    },
+    "result":
+    {
+        "item": "mekanism:jetpack_armored"
+    }
+}

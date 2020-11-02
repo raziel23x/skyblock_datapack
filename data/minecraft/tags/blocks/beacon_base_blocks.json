@@ -1,0 +1,18 @@
+{
+    "replace": true,
+    "values": [
+	"minecraft:gold_block",
+	"minecraft:iron_block",
+	"minecraft:diamond_block",
+	"minecraft:emerald_block",
+	"silents_mechanisms:steel_block",
+	"silents_mechanisms:copper_block", 
+	"silents_mechanisms:tin_block", 
+	"silents_mechanisms:lead_block", 
+	"silents_mechanisms:bronze_block", 
+	"mekanism:block_osmium", 
+	"mekanism:block_refined_obsidian", 
+	"mekanism:block_refined_glowstone", 
+	"powah:uraninite_block"
+	]
+}

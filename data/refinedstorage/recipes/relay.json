@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    {
+      "item": "refinedstorage:cable"
+    },
+    {
+      "item": "minecraft:redstone_torch"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:relay"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "mysticalagriculture:inferium_ore"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "count": 2
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

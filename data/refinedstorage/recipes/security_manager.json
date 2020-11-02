@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "SMS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "C": {
+      "tag": "forge:chests"
+    },
+    "S": {
+      "item": "refinedstorage:security_card"
+    },
+    "M": {
+      "item": "silents_mechanisms:alloy_machine_frame"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:security_manager"
+  }
+}

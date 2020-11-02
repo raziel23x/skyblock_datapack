@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "EME",
+    "ERE"
+  ],
+  "key": {
+    "M": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+      "item": "refinedstorage:1k_storage_part"
+    },
+    "E": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:1k_storage_block"
+  }
+}

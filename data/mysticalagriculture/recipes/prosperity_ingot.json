@@ -1,0 +1,26 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "item": "mysticalagriculture:prosperity_shard"
+                }
+            ],
+            "count": 4
+        },
+        {
+            "values": [
+                {
+                    "item": "minecraft:iron_ingot"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:prosperity_ingot",
+        "count": 1
+    }
+}

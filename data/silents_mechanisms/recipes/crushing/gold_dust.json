@@ -1,0 +1,21 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "minecraft:gold_ore"
+  },
+  "results": [
+    {
+      "item": "silents_mechanisms:gold_dust",
+      "count": 2
+    },
+    {
+      "item": "silents_mechanisms:gold_dust",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

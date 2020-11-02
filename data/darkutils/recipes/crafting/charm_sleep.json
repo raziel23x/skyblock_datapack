@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:black_bed"
+    }
+  ],
+  "result": {
+    "item": "darkutils:charm_sleep"
+  }
+}

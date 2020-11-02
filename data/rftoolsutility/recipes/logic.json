@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rCr",
+    "CAC",
+    "rCr"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "A": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:logic"
+  }
+}

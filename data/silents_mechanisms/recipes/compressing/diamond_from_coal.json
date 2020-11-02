@@ -1,0 +1,11 @@
+{
+    "type": "silents_mechanisms:compressing",
+    "process_time": 6000,
+    "ingredient": {
+        "tag": "forge:obsidian",
+        "count": 32
+    },
+    "result": {
+        "item": "minecraft:diamond"
+    }
+}

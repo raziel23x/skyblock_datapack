@@ -1,0 +1,18 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "minecraft:allium"
+    },
+    "results": [
+        {
+            "item": "minecraft:magenta_dye",
+            "count": 2
+        },
+        {
+            "item": "minecraft:magenta_dye",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

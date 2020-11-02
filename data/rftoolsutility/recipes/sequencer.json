@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rTr",
+    "TAT",
+    "rTr"
+  ],
+  "key": {
+    "A": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:sequencer"
+  }
+}

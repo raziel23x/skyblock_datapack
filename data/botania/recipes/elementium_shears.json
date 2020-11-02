@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AS",
+    "SA"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/elementium"
+    },
+	"A": {
+      "item": "botania:livingrock"
+    }
+  },
+  "result": {
+    "item": "botania:elementium_shears"
+  }
+}

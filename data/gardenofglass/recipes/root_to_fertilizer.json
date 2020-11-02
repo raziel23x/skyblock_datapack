@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "botania:fertilizer",
+	"count": 2
+  },
+  "ingredients": [
+    {
+      "item": "botania:living_root"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

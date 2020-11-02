@@ -1,0 +1,10 @@
+{
+  "input": {
+    "item": "minecraft:warped_stem"
+  },
+  "result": "minecraft:stripped_warped_stem",
+  "breakChance": 0.005,
+  "output": "{FluidName:\"industrialforegoing:latex\",Amount:4}",
+  "defaultRecipe": false,
+  "type": "industrialforegoing:fluid_extractor"
+}

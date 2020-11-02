@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "/X/",
+        "#/#"
+    ],
+    "key": {
+        "#": {
+            "item": "silents_mechanisms:redstone_alloy_ingot"
+        },
+        "/": {
+            "item": "silents_mechanisms:wire"
+        },
+        "X": {
+            "item": "silents_mechanisms:alloy_machine_frame"
+        },
+        "B": {
+            "item": "silents_mechanisms:battery"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:battery_box"
+    }
+}

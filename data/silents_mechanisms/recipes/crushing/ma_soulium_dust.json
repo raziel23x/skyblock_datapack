@@ -1,0 +1,18 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "item": "mysticalagriculture:soulium_ore"
+    },
+    "results": [
+        {
+            "item": "mysticalagriculture:soulium_dust",
+            "count": 2
+        },
+        {
+            "item": "mysticalagriculture:soulium_dust",
+            "count": 1,
+            "chance": 0.15
+        }
+    ]
+}

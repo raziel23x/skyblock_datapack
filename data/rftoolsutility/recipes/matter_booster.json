@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rftools",
+  "pattern": [
+    " R ",
+    "RFR",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "F": {
+      "item": "silents_mechanisms:alloy_machine_frame"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:matter_booster"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "item": "refinedstorage:processor_binding"
+        },
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "tag": "refinedstorage:silicon"
+        },
+        {
+            "item": "minecraft:redstone"
+        }
+    ],
+    "result":
+    {
+        "item": "refinedstorage:advanced_processor",
+        "count": 1
+    }
+}

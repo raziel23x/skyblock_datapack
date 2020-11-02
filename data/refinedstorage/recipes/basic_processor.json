@@ -1,0 +1,23 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "item": "refinedstorage:processor_binding"
+        },
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "tag": "refinedstorage:silicon"
+        },
+        {
+            "item": "minecraft:redstone"
+        }
+    ],
+    "result":
+    {
+        "item": "refinedstorage:basic_processor",
+        "count": 1
+    }
+}

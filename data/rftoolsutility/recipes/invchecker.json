@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "rAr",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:comparator"
+    },
+    "C": {
+      "tag": "forge:chests"
+    },
+    "A": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:invchecker"
+  }
+}

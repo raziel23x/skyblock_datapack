@@ -1,0 +1,21 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "silents_mechanisms:platinum_ore"
+  },
+  "results": [
+    {
+      "item": "silents_mechanisms:platinum_dust",
+      "count": 2
+    },
+    {
+      "item": "silents_mechanisms:platinum_dust",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

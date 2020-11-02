@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PPP",
+      "SBS",
+      "GMG"
+    ],
+    "key": {
+      "P": {
+        "item": "industrialforegoing:plastic"
+      },
+      "G": {
+        "tag": "forge:gears/gold"
+      },
+      "S": {
+        "item": "minecraft:shears"
+      },
+      "B": {
+        "item": "minecraft:bucket"
+      },
+      "M": {
+        "tag": "industrialforegoing:machine_frame/pity"
+      }
+    },
+    "result": {
+      "item": "industrialforegoing:animal_rancher"
+    }
+}

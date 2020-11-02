@@ -1,0 +1,28 @@
+{
+  "result": {
+    "item": "buildinggadgets:gadget_destruction"
+  },
+  "pattern": [
+    "yri",
+    "bri",
+    "roo"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "o": {
+      "tag": "forge:dyes/orange"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "i": {
+      "item": "silents_mechanisms:steel_ingot"
+    },
+    "y": {
+      "tag": "forge:dyes/yellow"
+    },
+    "b": {
+      "tag": "forge:dyes/black"
+    }
+  }
+}

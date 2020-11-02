@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "rbr",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:smooth_stone"
+        },
+        "b": {
+            "item": "minecraft:redstone_block"
+        },
+        "r": {
+            "item": "minecraft:repeater"
+        }
+    },
+    "result": {
+        "item": "clickmachine:auto_clicker"
+    }
+}

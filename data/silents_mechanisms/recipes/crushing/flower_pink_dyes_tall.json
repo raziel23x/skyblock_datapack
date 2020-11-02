@@ -1,0 +1,20 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 300,
+    "ingredient": [
+		{
+			"item": "minecraft:peony"
+		}
+	],
+    "results": [
+        {
+            "item": "minecraft:pink_dye",
+            "count": 4
+        },
+        {
+            "item": "minecraft:pink_dye",
+            "count": 1,
+            "chance": 0.1
+        }
+    ]
+}

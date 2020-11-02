@@ -1,0 +1,26 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "item": "mysticalagriculture:prudentium_essence"
+                }
+            ],
+            "count": 2
+        },
+        {
+            "values": [
+                {
+                    "item": "mysticalagriculture:prosperity_ingot"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:prudentium_ingot",
+        "count": 1
+    }
+}

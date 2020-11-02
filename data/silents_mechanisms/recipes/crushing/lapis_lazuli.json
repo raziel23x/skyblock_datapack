@@ -1,0 +1,22 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 400,
+  "ingredient": {
+    "tag": "forge:ores/lapis"
+  },
+  "results": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 6
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.1,
+	  "count": 1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.1
+    }
+  ]
+}

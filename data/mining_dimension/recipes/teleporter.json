@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lpl",
+    "pip",
+    "lpl"
+  ],
+  "key": {
+    "l": {
+      "tag": "minecraft:logs"
+    },
+    "p": {
+      "item": "minecraft:ender_pearl"
+    },
+    "i": {
+      "item": "minecraft:iron_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mining_dimension:teleporter",
+    "count": 1
+  }
+}

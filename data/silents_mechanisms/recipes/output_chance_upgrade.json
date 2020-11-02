@@ -1,0 +1,32 @@
+{
+  "type": "silents_mechanisms:alloy_smelting",
+  "process_time": 600,
+  "ingredients": [
+    {
+      "value": {
+          "item": "refinedstorage:silicon"
+        },
+      "count": 6
+    },
+    {
+      "value": {
+        "item": "minecraft:gold_nugget"
+      },
+      "count": 3
+    },
+    {
+      "value": {
+        "item": "minecraft:lapis_block"
+      }
+    },
+    {
+      "value": {
+        "item": "silents_mechanisms:platinum_ingot"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "silents_mechanisms:output_chance_upgrade"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "LGW",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "usrg:cobblegenerator",
+        "count": 1
+    }
+}

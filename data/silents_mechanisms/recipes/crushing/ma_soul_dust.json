@@ -1,0 +1,35 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 300,
+    "ingredient": 	[
+		{
+			"item": "mysticalagriculture:soulstone"
+		},
+		{
+			"item": "mysticalagriculture:soulstone_cobble"
+		},
+		{
+			"item": "mysticalagriculture:soulstone_bricks"
+		},
+		{
+			"item": "mysticalagriculture:soulstone_cracked_bricks"
+		},
+		{
+			"item": "mysticalagriculture:soulstone_chiseled_bricks"
+		},
+		{
+			"item": "mysticalagriculture:soulstone_smooth"
+		}
+	],
+    "results": [
+        {
+            "item": "mysticalagriculture:soul_dust",
+            "count": 2
+        },
+        {
+            "item": "mysticalagriculture:soul_dust",
+            "count": 1,
+            "chance": 0.15
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BFB",
+    "BBB"
+  ],
+  "key": {
+    "F": {
+      "item": "mysticalagriculture:tertium_furnace"
+    },
+    "B": {
+      "item": "mysticalagriculture:imperium_block"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_furnace"
+  }
+}

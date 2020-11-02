@@ -1,0 +1,17 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Bee Hive",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "minecraft:emerald",
+	  "count": 45
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "minecraft:beehive"
+    }
+  ]
+}

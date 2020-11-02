@@ -1,0 +1,27 @@
+{
+  "type": "silents_mechanisms:alloy_smelting",
+  "process_time": 600,
+  "ingredients": [
+    {
+      "value": {
+          "item": "refinedstorage:silicon"
+        },
+      "count": 6
+    },
+    {
+      "value": {
+        "item": "minecraft:gold_nugget"
+      },
+      "count": 3
+    },
+    {
+      "value": {
+        "item": "minecraft:emerald"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "silents_mechanisms:energy_efficiency_upgrade"
+  }
+}

@@ -1,0 +1,15 @@
+
+{
+    "type": "mekanism:crushing",
+    "input":
+    {
+        "ingredient":
+        {
+            "item": "silents_mechanisms:bronze_ingot"
+        }
+    },
+    "output":
+    {
+        "item": "silents_mechanisms:bronze_dust"
+    }
+}

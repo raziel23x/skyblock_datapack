@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "/X/",
+        "#H#"
+    ],
+    "key": {
+        "#": {
+            "item": "silents_mechanisms:steel_ingot"
+        },
+        "/": {
+            "item": "silents_mechanisms:canister"
+        },
+        "X": {
+            "item": "silents_mechanisms:alloy_machine_frame"
+        },
+        "C": {
+            "item": "silents_mechanisms:circuit_board"
+        },
+        "H": {
+            "item": "silents_mechanisms:heating_element"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:refinery"
+    }
+}

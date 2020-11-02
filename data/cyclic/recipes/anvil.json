@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    " r ",
+    "iii"
+  ],
+  "key": {
+    "r": {
+      "item": "powah:battery_hardened"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "cyclic:anvil",
+    "count": 1
+  }
+}

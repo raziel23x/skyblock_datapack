@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "buildinggadgets:gadget_exchanging"
+  },
+  "pattern": [
+    "iee",
+    "iee",
+    "oor"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "o": {
+      "tag": "forge:dyes/orange"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  }
+}

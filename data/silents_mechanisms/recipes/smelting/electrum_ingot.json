@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "silents_mechanisms:electrum_dust"
+  },
+  "result": "silents_mechanisms:electrum_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

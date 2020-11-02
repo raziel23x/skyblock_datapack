@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rftools",
+  "pattern": [
+    "GGG",
+    "bFb",
+    "iii"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bucket"
+    },
+    "F": {
+      "item": "silents_mechanisms:stone_machine_frame"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:tank"
+  }
+}

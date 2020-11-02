@@ -1,0 +1,26 @@
+{
+    "type": "silents_mechanisms:alloy_smelting",
+    "process_time": 600,
+    "ingredients": [
+        {
+            "values": [
+                {
+                    "item": "mysticalagriculture:tertium_essence"
+                }
+            ],
+            "count": 2
+        },
+        {
+            "values": [
+                {
+                    "item": "mysticalagriculture:prosperity_gemstone"
+                }
+            ],
+            "count": 1
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:tertium_gemstone",
+        "count": 1
+    }
+}

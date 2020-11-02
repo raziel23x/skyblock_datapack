@@ -1,0 +1,31 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PDP",
+          "SMS",
+          "ARA"
+        ],
+        "key": {
+          "P": {
+            "item": "industrialforegoing:plastic"
+          },
+          "D": {
+            "tag": "forge:gears/gold"
+          },
+          "S": {
+            "item": "minecraft:iron_sword"
+          },
+          "A": {
+            "item": "minecraft:iron_axe"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "R": {
+            "item": "minecraft:redstone"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_slaughter_factory"
+        }
+}

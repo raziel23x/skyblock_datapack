@@ -1,0 +1,21 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": ["DOD"],
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:polished_blackstone_slab"
+        },
+        "O":
+        {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    },
+    "result":
+    {
+        "item": "darkutils:rune_weakness",
+        "count": 2
+    }
+}

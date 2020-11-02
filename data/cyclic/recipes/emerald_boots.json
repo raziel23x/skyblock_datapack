@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cdc",
+    "c c"
+  ],
+  "key": {
+  	"c": {
+  		"item":"minecraft:emerald"
+  	},
+	"d": {
+  		"item":"minecraft:diamond_boots"
+  	}
+  },
+  "result": {
+    "item": "cyclic:emerald_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "cdc",
+    "c c"
+  ],
+  "key": {
+  	"d": {
+  		"item":"cyclic:emerald_leggings"
+  	},
+  	"c": {
+  		"item":"cyclic:gem_obsidian"
+  	}
+  },
+  "result": {
+    "item": "cyclic:crystal_leggings",
+    "count": 1
+  }
+}

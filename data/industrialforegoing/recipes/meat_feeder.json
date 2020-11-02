@@ -1,0 +1,22 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pip",
+          "gig",
+          " i "
+        ],
+        "key": {
+          "p": {
+            "item": "industrialforegoing:plastic"
+          },
+          "i": {
+            "tag": "forge:ingots/iron"
+          },
+          "g": {
+            "item": "minecraft:glass_bottle"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:meat_feeder"
+        }
+}

@@ -1,0 +1,10 @@
+{
+  "input": {
+    "item": "minecraft:slime_block"
+  },
+  "result": "minecraft:air",
+  "breakChance": 0.005,
+  "output": "{FluidName:\"cyclic:slime\",Amount:1}",
+  "defaultRecipe": false,
+  "type": "industrialforegoing:fluid_extractor"
+}

@@ -1,0 +1,21 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": ["DOD"],
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:polished_blackstone_slab"
+        },
+        "O":
+        {
+            "item": "minecraft:ice"
+        }
+    },
+    "result":
+    {
+        "item": "darkutils:rune_slowness",
+        "count": 2
+    }
+}

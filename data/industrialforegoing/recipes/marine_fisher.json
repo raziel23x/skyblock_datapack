@@ -1,0 +1,31 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pfp",
+          "bmb",
+          "grg"
+        ],
+        "key": {
+          "p": {
+            "item": "industrialforegoing:plastic"
+          },
+          "f": {
+            "item": "minecraft:fishing_rod"
+          },
+          "b": {
+            "item": "minecraft:bucket"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/simple"
+          },
+          "g": {
+            "tag": "forge:gears/iron"
+          },
+          "r": {
+            "item": "minecraft:redstone"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:marine_fisher"
+        }
+}

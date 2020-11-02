@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["TOT", "OEO", "TOT"],
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:crying_obsidian"
+        },
+        "E":
+        {
+            "item": "minecraft:enchanting_table"
+        },
+        "T":
+        {
+            "item": "minecraft:soul_torch"
+        }
+    },
+    "result":
+    {
+        "item": "chunk:loader",
+        "count": 1
+    }
+}

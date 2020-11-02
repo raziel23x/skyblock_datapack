@@ -1,0 +1,11 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:stick"
+  },
+  "output": {
+    "item": "minecraft:bamboo",
+	"count": 2
+  },
+  "mana": 2000
+}

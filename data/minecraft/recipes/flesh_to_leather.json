@@ -1,0 +1,12 @@
+{
+  "group": "vanilla_enhanced_datapack",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "item": "minecraft:leather"
+  }
+}

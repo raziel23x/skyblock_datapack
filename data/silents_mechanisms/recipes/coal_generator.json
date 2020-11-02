@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "AXA",
+        "OBO"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/iron"
+        },
+        "X": {
+            "item": "silents_mechanisms:stone_machine_frame"
+        },
+        "O": {
+            "tag": "forge:cobblestone"
+        },
+        "A": {
+            "tag": "forge:ingots/refined_iron"
+        },
+        "B": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:coal_generator"
+    }
+}

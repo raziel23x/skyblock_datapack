@@ -1,0 +1,17 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "MakeItEasy",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "minecraft:emerald",
+	  "count": 32
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "scalinghealth:enchanted_heart"
+    }
+  ]
+}

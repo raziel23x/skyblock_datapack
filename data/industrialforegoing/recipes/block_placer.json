@@ -1,0 +1,25 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PDP",
+          "DMD",
+          "PRP"
+        ],
+        "key": {
+          "P": {
+            "item": "industrialforegoing:plastic"
+          },
+          "D": {
+            "item": "minecraft:dropper"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "R": {
+            "item": "minecraft:redstone"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:block_placer"
+        }
+}

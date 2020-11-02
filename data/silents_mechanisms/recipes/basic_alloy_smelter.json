@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ooo",
+        "oxo",
+        "o/o"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:blast_furnace"
+        },
+        "x": {
+            "item": "silents_mechanisms:stone_machine_frame"
+        },
+        "o": {
+            "item": "minecraft:bricks"
+        }
+    },
+    "result": {
+        "item": "silents_mechanisms:basic_alloy_smelter"
+    }
+}

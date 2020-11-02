@@ -1,0 +1,23 @@
+{
+  "type": "mcjtylib:copy_nbt",
+  "group": "rftools",
+  "pattern": [
+    "RdR",
+    "MMM",
+    "RdR"
+  ],
+  "key": {
+    "M": {
+      "item": "rftoolsutility:charged_porter"
+    },
+    "R": {
+      "item": "powah:capacitor_niotic"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "rftoolsutility:advanced_charged_porter"
+  }
+}

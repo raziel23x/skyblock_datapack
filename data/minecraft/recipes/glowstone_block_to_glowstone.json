@@ -1,0 +1,13 @@
+{
+  "group": "vanilla_enhanced_datapack",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 4
+  }
+}

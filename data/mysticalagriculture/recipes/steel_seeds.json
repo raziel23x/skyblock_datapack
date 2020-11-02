@@ -1,0 +1,35 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": {
+    "item": "mysticalagriculture:prosperity_seed_base"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "silents_mechanisms:steel_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "silents_mechanisms:steel_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "silents_mechanisms:steel_ingot"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "silents_mechanisms:steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "mysticalagriculture:steel_seeds"
+  }
+}

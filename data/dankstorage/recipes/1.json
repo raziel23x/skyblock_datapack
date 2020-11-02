@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "rbr",
+    "rrr"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:coal_block"
+    },
+    "b": {
+      "item": "minecraft:ender_chest"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_1"
+  }
+}

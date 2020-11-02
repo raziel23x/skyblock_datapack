@@ -1,0 +1,17 @@
+{
+  "type": "silents_mechanisms:crushing",
+  "process_time": 300,
+  "ingredient": {
+    "item": "buildinggadgets:construction_block_dense"
+  },
+  "results": [
+    {
+      "item": "buildinggadgets:construction_paste",
+      "count": 8
+    },
+    {
+      "item": "buildinggadgets:construction_paste",
+      "chance": 0.1
+    }
+  ]
+}

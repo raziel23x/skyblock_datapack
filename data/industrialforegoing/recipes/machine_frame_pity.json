@@ -1,0 +1,19 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "WWW",
+          "WRW",
+          "WWW"
+        ],
+        "key": {
+          "W": {
+            "item": "industrialforegoing:plastic"
+          },
+          "R": {
+            "item": "silents_mechanisms:stone_machine_frame"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:machine_frame_pity"
+        }
+}

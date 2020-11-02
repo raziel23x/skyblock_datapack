@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "pattern": ["ccc", "cll", "llb"],
+    "key":
+    {
+        "c":
+        {
+            "tag": "minecraft:coals"
+        },
+        "l":
+        {
+            "item": "minecraft:clay_ball"
+        },
+        "b":
+        {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result":
+    {
+        "item": "powah:dielectric_paste",
+        "count": 8
+    }
+}

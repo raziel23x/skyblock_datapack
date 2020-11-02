@@ -1,0 +1,31 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PFP",
+          "DMD",
+          "BGB"
+        ],
+        "key": {
+          "P": {
+            "item": "industrialforegoing:plastic"
+          },
+          "F": {
+            "item": "minecraft:furnace"
+          },
+          "D": {
+            "item": "minecraft:piston"
+          },
+          "B": {
+            "item": "minecraft:brick"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "G": {
+            "tag": "forge:gears/iron"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:sewage_composter"
+        }
+}

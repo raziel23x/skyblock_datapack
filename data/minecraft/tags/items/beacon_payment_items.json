@@ -1,0 +1,18 @@
+{
+    "replace": true,
+    "values": [
+	"minecraft:diamond",
+	"minecraft:iron_ingot",
+	"minecraft:gold_ingot",
+	"minecraft:netherite_ingot",
+	"minecraft:emerald",
+	"mekanism:ingot_osmium", 
+	"silents_mechanisms:copper_ingot", 
+	"silents_mechanisms:tin_ingot", 
+	"silents_mechanisms:lead_ingot", 
+	"silents_mechanisms:bronze_ingot", 
+	"mekanism:ingot_refined_obsidian", 
+	"mekanism:ingot_refined_glowstone", 
+	"silents_mechanisms:steel_ingot"
+	]
+}

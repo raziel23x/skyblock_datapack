@@ -1,0 +1,25 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "PDP",
+          "DMD",
+          "PRP"
+        ],
+        "key": {
+          "P": {
+            "item": "industrialforegoing:plastic"
+          },
+          "D": {
+            "tag": "forge:dyes"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "R": {
+            "tag": "forge:gears/gold"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:dye_mixer"
+        }
+}

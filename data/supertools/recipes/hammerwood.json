@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+	"Y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "supertools:hammerwood"
+  }
+}
